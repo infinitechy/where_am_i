@@ -1,9 +1,11 @@
-# where_am
+# where_am_i
 
+Implemented the robot localization package
+
+Initial pose on launching amcl package
+--------------------------------------
 ![snapshot](snapshots/initial_robot_pose_after_amcl.png)
 
-
-Build and implemented the AMCL localization package on your roboT
 
 Acceptance criteria
 --------------------
