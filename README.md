@@ -1,6 +1,6 @@
 # where_am
 
-![snapshot](../master/where_am_i/initial_robot_pose_after_amcl.png)
+![snapshot](snapshots/initial_robot_pose_after_amcl.png)
 
 
 Build and implemented the AMCL localization package on your roboT
